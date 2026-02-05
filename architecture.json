@@ -1,0 +1,160 @@
+{
+  "book_id": "asian-postcolonial-mythopoeic-colonial-aftermath",
+  "title": "The Hidden Breath of Villa Jasmin",
+  "tagline": "When the empire's ledger comes to claim a home, the land itself begins to remember.",
+  "target_words": 70000,
+  "actual_words": 75349,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "The Bureaucracy of Dispossession",
+    "Memory as a Living Archive",
+    "Mythic Reckoning with Colonial Trauma",
+    "The Ghosts in the Architecture"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Monsoon Arrived Not With Rain",
+      "words": 3500
+    },
+    {
+      "ch": 2,
+      "title": "The Dream Was Always the Same",
+      "words": 3100
+    },
+    {
+      "ch": 3,
+      "title": "The Weight of the Afternoon Heat",
+      "words": 2900
+    },
+    {
+      "ch": 4,
+      "title": "The Ledger and the Land",
+      "words": 3200
+    },
+    {
+      "ch": 5,
+      "title": "Inventory of Ghosts",
+      "words": 3100
+    },
+    {
+      "ch": 6,
+      "title": "Whispers in the Walled Garden",
+      "words": 3000
+    },
+    {
+      "ch": 7,
+      "title": "The Scent of Rebellion",
+      "words": 3300
+    },
+    {
+      "ch": 8,
+      "title": "Beneath the Polished Teak",
+      "words": 2900
+    },
+    {
+      "ch": 9,
+      "title": "The Unfinished Peacock",
+      "words": 3200
+    },
+    {
+      "ch": 10,
+      "title": "Carrington's Equation",
+      "words": 3100
+    },
+    {
+      "ch": 11,
+      "title": "Arjun's Silence",
+      "words": 2800
+    },
+    {
+      "ch": 12,
+      "title": "Ravi's Errand",
+      "words": 3000
+    },
+    {
+      "ch": 13,
+      "title": "The Hum in the Soil",
+      "words": 3400
+    },
+    {
+      "ch": 14,
+      "title": "Clause and Counter-Clause",
+      "words": 3100
+    },
+    {
+      "ch": 15,
+      "title": "The Jasmine Flag",
+      "words": 2900
+    },
+    {
+      "ch": 16,
+      "title": "Storm in a Glass Case",
+      "words": 3300
+    },
+    {
+      "ch": 17,
+      "title": "The Village Listens",
+      "words": 3200
+    },
+    {
+      "ch": 18,
+      "title": "Translation of Loss",
+      "words": 3100
+    },
+    {
+      "ch": 19,
+      "title": "The Map and the Memory",
+      "words": 3400
+    },
+    {
+      "ch": 20,
+      "title": "Roots of the Sampaguita",
+      "words": 3000
+    },
+    {
+      "ch": 21,
+      "title": "Stewardship",
+      "words": 3500
+    },
+    {
+      "ch": 22,
+      "title": "The Teeth of the Land",
+      "words": 3600
+    },
+    {
+      "ch": 23,
+      "title": "What the Cicadas Know",
+      "words": 3400
+    },
+    {
+      "ch": 24,
+      "title": "Not a Fair Fight",
+      "words": 3800
+    }
+  ],
+  "entry_points": {
+    "story": [
+      "Write a scene where a mundane object in the house (a spoon, a tile, a window latch) 'remembers' and reveals a hidden history to Amaya during the inventory.",
+      "Compose the 17th-century court poet's treatise on jasmine that Arjun is translating, blending horticulture with veiled political allegory.",
+      "Write a 'ghost ledger' entry from the perspective of the house itself, cataloging the emotions and events imprinted on its walls, counter to Carrington's official inventory.",
+      "Draft a mythic origin story for the 'hum in the soil' that Amaya dreams of, connecting it to a local legend of a buried guardian or a silenced protest."
+    ],
+    "technical": [
+      "Build an interactive 'Mythic Map' of Villa Jasmin's grounds, where users can click on features (the walled garden, the old stone basin, the frangipani tree) to reveal layered narratives: Carrington's clinical description, Amaya's sensory memory, and the land's mythic recollection.",
+      "Create a 'Clause Generator' that produces procedurally generated, legalese 'Annexures' from the fictional Independence Accord, each describing a new way to legally dispossess, which can be used as writing prompts for additional scenes of bureaucratic encroachment."
+    ]
+  },
+  "origin": {
+    "methodology": "Council-Prism Generation",
+    "sasi_score": 8,
+    "council": [
+      "Salman Rushdie (Magical Realism & Postcolonial Identity)",
+      "Kazuo Ishiguro (Memory, Silence, & The Aftermath of History)",
+      "Arundhati Roy (Lyrical Protest & The Politics of Place)",
+      "N.K. Jemisin (Revolutionary Worldbuilding & Geomythic Power)"
+    ]
+  },
+  "cover_prompt": "A spectral, ancient banyan tree's roots erupt through the elegant, cracked tile floor of a colonial-era villa's grand hall, its sinuous limbs cradling and shattering a heavy, leather-bound ledger, [Detailed Scene & Context: within the decaying opulence of Villa Jasmin, where architectural ghosts—faded wallpaper patterns that shift into faces, and floorboards that gleam like water—hold memory. A single, empty chair sits at a desk piled with yellowed official stamps and rusted seals, the bureaucracy of loss made physical], [Artistic Style & Medium: in the hauntingly detailed and mythic style of Zdzisław Beksiński, blended with the ethereal, memory-laden atmospheres of Remedios Varo, rendered in photorealistic oil painting with subtle textural elements of aged parchment and cracked fresco], [Composition & Camera: book cover framing, a centered and immersive composition looking down the villa's long, perspective-driven hallway, with a low-angle view emphasizing the towering, invasive tree, dramatic and slightly surreal], [Lighting & Color Palette: chiaroscuro lighting with a single shaft of dusty, golden-hour light piercing through a high, broken window, illuminating the floating dust and spectral forms, within a palette of colonial blues, faded ochre, monsoon grey, and the vibrant, impossible green of the living myth], masterpiece, best quality, ultra detailed, intricate details, professional composition, sharp focus, 8k resolution, flux dev."
+}
